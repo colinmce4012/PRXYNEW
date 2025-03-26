@@ -1,5 +1,4 @@
-# PRXYNEW
-Search anything while being fully protected
+
 import http.server
 import socketserver
 import requests
